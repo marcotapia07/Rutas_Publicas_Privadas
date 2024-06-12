@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "49641f85-3241-49a7-82b3-b5607a45780f",
+      "username": "testuser",
+      "password": "$2b$10$5eeFyAXCVDTuBaVAkX/BVOJlgfijYlRXnYAPxwjRfaDBJXk5K1usm"
+    },
+    {
+      "id": "b0b5a400-b7f6-448d-98c3-65cf77c830a1",
+      "username": "Marco",
+      "password": "$2b$10$eanVRph4AzdJ2QjUlHwEhOrNGteLoBre12vuL3664HUaKeRx91yxC"
+    }
+  ]
+}
